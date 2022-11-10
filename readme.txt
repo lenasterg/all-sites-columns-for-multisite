@@ -1,4 +1,3 @@
-# all-sites-columns-for-multisite
 === All Sites Columns for Multisite ===
 Contributors: lenasterg
 Tags: multisite, blogs colums
