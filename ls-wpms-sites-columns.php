@@ -4,7 +4,7 @@
  */
 /**
  *  Plugin Name: All Sites Columns for Multisite
- *  Plugin URI: https://plugins.svn.wordpress.org/all-sites-columns-for-multisite
+ *  Plugin URI: https://wordpress.org/plugins/all-sites-columns-for-multisite
  *  Description: For Multisite only. The plugin adds sortable columns to the sites network admin table.
  *  Version: 1.0.0
  *  Author: lenasterg, nts.cti.gr, sch.gr
