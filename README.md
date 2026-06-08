@@ -27,6 +27,16 @@ The new columns are the following fields of the database table `wp_blogs`:
 
 The superadmin can hide the unwanted Columns via the Screen Option panel.
 
+## Installation & Links
+
+You can find and download this plugin directly from the official WordPress Plugin Directory:  
+[All Sites Columns for Multisite on WordPress.org](https://wordpress.org/plugins/all-sites-columns-for-multisite/)
+
+### Manual Installation:
+1. Upload the `all-sites-columns-for-multisite` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the **Network Admin -> Plugins** menu.
+3. Navigate to **Network Admin -> Sites** to see the new columns.
+
 ## Screenshots
 
 1. The network Sites administration table with all the sortable columns.
